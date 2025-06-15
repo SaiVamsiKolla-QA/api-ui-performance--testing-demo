@@ -237,7 +237,7 @@ For questions, suggestions, or collaboration opportunities:
 
 ## 📄 License
 
-This project is open source and available for educational and demonstration purposes.
+This project is open-source and licensed under the MIT License. It is available for educational and demonstration purposes.
 
 ## 🙏 Acknowledgments
 
